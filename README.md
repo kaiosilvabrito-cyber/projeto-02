@@ -1,40 +1,32 @@
 # Barbearia Alura
 
-Este projeto foi desenvolvido como parte integrante do curso **HTML5 e CSS3 parte 4: avançando no CSS** da plataforma **Alura**, realizado pela turma de **Técnico em Desenvolvimento e Análise de Sistemas**.
+Este projeto foi desenvolvido como parte integrante do curso HTML5 e CSS3 parte 4: avançando no CSS da plataforma Alura, realizado pela turma de Tecnico em Desenvolvimento e Analise de Sistemas.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
-O projeto consiste na criação de um site completo para uma barbearia fictícia, a "Barbearia Alura". O objetivo principal foi aplicar conceitos avançados de web design, organização de código e responsividade, consolidando o aprendizado sobre a estrutura de marcação HTML e a estilização com CSS.
+O projeto consiste na criacao de um site completo para uma barbearia ficticia, a Barbearia Alura. O objetivo principal foi aplicar conceitos avancados de web design, organizacao de codigo e responsividade, consolidando o aprendizado sobre a estrutura de marcacao HTML e a estilizacao com CSS.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- **HTML5**: Estruturação semântica do conteúdo.
-- **CSS3**: Estilização avançada, incluindo:
-    - Uso de seletores complexos.
-        - Posicionamento (Relative, Absolute, Float).
-            - Gradientes e sombras.
-                - Transições e efeitos de hover.
-                    - Organização de layout com Box Model.
-                    - **Google Fonts**: Integração da fonte 'Montserrat'.
-                    - **Reset CSS**: Padronização da renderização entre diferentes navegadores.
+- HTML5: Estruturacao semantica do conteudo.
+- CSS3: Estilizacao avancada, incluindo seletores complexos, posicionamento (Relative, Absolute, Float), gradientes, sombras, transicoes e efeitos de hover.
+- Google Fonts: Integracao da fonte Montserrat.
+- Reset CSS: Padronizacao da renderizacao entre diferentes navegadores.
 
-                    ## 📂 Estrutura de Arquivos
+## Estrutura de Arquivos
 
-                    O projeto está organizado da seguinte forma:
+- index.html: Pagina inicial com informacoes sobre a barbearia, localizacao, beneficios e video institucional.
+- produtos.html: Catalogo de servicos oferecidos com preços e descricoes.
+- contato.html: Formulario de contato completo e tabela de horarios de funcionamento.
+- style.css: Folha de estilo principal com toda a identidade visual.
+- reset.css: Arquivo de reset para garantir consistencia visual.
+- imagens/: Pasta contendo todos os ativos visuais do projeto (logos, banners e fotos dos servicos).
 
-                    - `index.html`: Página inicial com informações sobre a barbearia, localização (Google Maps), benefícios e vídeo institucional.
-                    - `produtos.html`: Catálogo de serviços oferecidos com preços e descrições.
-                    - `contato.html`: Formulário de contato completo e tabela de horários de funcionamento.
-                    - `style.css`: Folha de estilo principal com toda a identidade visual.
-                    - `reset.css`: Arquivo de reset para garantir consistência visual.
-                    - `imagens/`: Pasta contendo todos os ativos visuais do projeto (logos, banners e fotos dos serviços).
+## Como Visualizar
 
-                    ## 🛠️ Como Visualizar
+1. Baixe os arquivos do projeto.
+2. Certifique-se de que a pasta imagens contem todos os arquivos mencionados anteriormente.
+3. Abra o arquivo index.html em seu navegador ou utilize a extensao Live Server no VS Code.
 
-                    1. Clone ou baixe este repositório.
-                    2. Certifique-se de que a pasta `imagens/` contém todos os arquivos necessários.
-                    3. Abra o arquivo `index.html` em seu navegador de preferência ou utilize a extensão **Live Server** no VS Code para uma experiência em tempo real.
-
-                    ---
-                    *Projeto acadêmico desenvolvido para fins de aprendizado.*
-                    
+---
+Projeto academico desenvolvido para fins de aprendizado.
